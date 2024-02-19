@@ -8,8 +8,7 @@ Goto `config.php` file change `Secret_Key` and  `Secret_Key` then  you can acces
 ## File include and class declare
 
 
-<img src="https://github.com/mdsazzad0002/Steedfast/assets/69880365/341ba221-e3ea-4077-b458-f2b625836f76" width="100%"/> 
-
+[cover](https://github.com/mdsazzad0002/Steedfast/assets/69880365/341ba221-e3ea-4077-b458-f2b625836f76)
 ```php
 include 'config.php';
 $steedFast = new steedFast();
