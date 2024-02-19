@@ -1,19 +1,5 @@
 
-<style>
-    .js-snippet-clipboard-copy-unpositioned .markdown-body .snippet-clipboard-content, .js-snippet-clipboard-copy-unpositioned .markdown-body .highlight{
-            border-bottom: 0;
-            border-image-slice: 1;
-            border-image-source: linear-gradient(90deg,#fb0301,#fb0301 25%,#fbbb06,#34a653,#206ace 75%);
-            border-left: 0;
-            border-right: 0;
-            border-top-style: solid;
-            border-top-width: 3px;
-    }
-</style>
 
-<figure class="video_container">
-    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"         src="https://www.openstreetmap.org/export/embed.html?bbox=6.047544479370118%2C46.23053702499607%2C6.061706542968751%2C46.23821801159735&amp;layer=mapnik" style="border: 1px solid black"></iframe>
-</figure>
 
 ### SEtup steatfast couriar
 
@@ -30,6 +16,7 @@ Goto `config.php` file change `Secret_Key` and  `Secret_Key` then  you can acces
     border-top-width: 3px;
     margin: 0;
     height: 0;"></div>
+![image](https://github.com/mdsazzad0002/Steedfast/assets/69880365/341ba221-e3ea-4077-b458-f2b625836f76)
 
 ```php
 include 'config.php';
