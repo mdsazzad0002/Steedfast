@@ -7,19 +7,9 @@ Goto `config.php` file change `Secret_Key` and  `Secret_Key` then  you can acces
 
 ## File include and class declare
 
-<div style="border-bottom: 0;
-    border-image-slice: 1;
-    border-image-source: linear-gradient(90deg,#fb0301,#fb0301 25%,#fbbb06,#34a653,#206ace 75%);
-    border-left: 0;
-    border-right: 0;
-    border-top-style: solid;
-    border-top-width: 3px;
-    margin: 0;
-    height: 0;"></div>
-    
-![image](https://github.com/mdsazzad0002/Steedfast/assets/69880365/341ba221-e3ea-4077-b458-f2b625836f76)
-```php
+
 <img src="https://github.com/mdsazzad0002/Steedfast/assets/69880365/341ba221-e3ea-4077-b458-f2b625836f76" width="100%"/>
+```php
 include 'config.php';
 $steedFast = new steedFast();
 ```
