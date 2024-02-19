@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <style>
-            .js-snippet-clipboard-copy-unpositioned .markdown-body .snippet-clipboard-content, .js-snippet-clipboard-copy-unpositioned .markdown-body .highlight{
-                    border-bottom: 0;
-                    border-image-slice: 1;
-                    border-image-source: linear-gradient(90deg,#fb0301,#fb0301 25%,#fbbb06,#34a653,#206ace 75%);
-                    border-left: 0;
-                    border-right: 0;
-                    border-top-style: solid;
-                    border-top-width: 3px;
-            }
-        </style>
-    </head>
-    <body>
-    
-    </body>
-</html>
-
+.github/github.css
 
 
 ### SEtup steatfast couriar
