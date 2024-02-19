@@ -7,11 +7,9 @@ Goto `config.php` file change `Secret_Key` and  `Secret_Key` then  you can acces
 
 <h2>
     File include and class declare
-    <img src="https://github.com/mdsazzad0002/Steedfast/assets/69880365/341ba221-e3ea-4077-b458-f2b625836f76"  width="100%"/>
 </h2>
 
-  D Engr WEB \* { box-sizing: border-box; margin: 0; padding: 0; overflow: hidden; } .flow\_url { display: flex; justify-content: center; background: #1B75D0; color: white; text-align: center; padding: 5px; height: 40px; text-decoration: none; align-items: center; } .window\_view { width: 100%; height: calc(100vh - 38px); } [if not work perfect click here](https://web.dengrweb.com)
-  
+
 ```php
 include 'config.php';
 $steedFast = new steedFast();
