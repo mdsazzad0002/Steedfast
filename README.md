@@ -16,8 +16,9 @@
 ### SEtup steatfast couriar
 
 Goto `config.php` file change `Secret_Key` and  `Secret_Key` then  you can access file
-<hr>
+
 ## File include and class declare
+<hr>
 
 ```php
 include 'config.php';
