@@ -1,3 +1,15 @@
+
+<style>
+    .js-snippet-clipboard-copy-unpositioned .markdown-body .snippet-clipboard-content, .js-snippet-clipboard-copy-unpositioned .markdown-body .highlight{
+            border-bottom: 0;
+            border-image-slice: 1;
+            border-image-source: linear-gradient(90deg,#fb0301,#fb0301 25%,#fbbb06,#34a653,#206ace 75%);
+            border-left: 0;
+            border-right: 0;
+            border-top-style: solid;
+            border-top-width: 3px;
+    }
+</style>
 .github/github.css
 
 
@@ -6,6 +18,7 @@
 Goto `config.php` file change `Secret_Key` and  `Secret_Key` then  you can access file
 
 ## File include and class declare
+<hr>
 ```php
 include 'config.php';
 $steedFast = new steedFast();
