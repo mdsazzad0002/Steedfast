@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
 <style>
     .js-snippet-clipboard-copy-unpositioned .markdown-body .snippet-clipboard-content, .js-snippet-clipboard-copy-unpositioned .markdown-body .highlight{
             border-bottom: 0;
@@ -9,6 +13,16 @@
             border-top-width: 3px;
     }
 </style>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+
 
 
 ### SEtup steatfast couriar
