@@ -10,17 +10,9 @@
             border-top-width: 3px;
     }
 </style>
-<iframe
-  width="600"
-  height="450"
-  style="border:0"
-  loading="lazy"
-  allowfullscreen
-  referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place?key=
-    &q=Space+Needle,Seattle+WA">
-</iframe>
-
+<figure class="video_container">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.047544479370118%2C46.23053702499607%2C6.061706542968751%2C46.23821801159735&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+</figure>
 ### SEtup steatfast couriar
 
 Goto `config.php` file change `Secret_Key` and  `Secret_Key` then  you can access file
