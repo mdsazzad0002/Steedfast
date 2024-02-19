@@ -25,7 +25,7 @@ Goto `config.php` file change `Secret_Key` and  `Secret_Key` then  you can acces
     border-right: 0;
     border-top-style: solid;
     border-top-width: 3px;
-    margin: 00000;
+    margin: 0;
     height: 0;"></div>
 
 ```php
